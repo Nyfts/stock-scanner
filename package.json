@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.8",
+    "@types/node-notifier": "^8.0.2",
     "@typescript-eslint/eslint-plugin": "^5.9.1",
     "@typescript-eslint/parser": "^5.9.1",
     "eslint": "^8.6.0",
