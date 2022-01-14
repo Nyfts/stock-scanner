@@ -1,6 +1,6 @@
-import NofitierService from './services/notifierService';
-import ProductService from './services/productService';
-import ChromiumService from './services/chromiumService';
+import NofitierService from './services/notifier.service';
+import ProductService from './services/product.service';
+import ChromiumService from './services/chromium.service';
 
 async function main() {
   const products = ProductService.listAllProducts();
